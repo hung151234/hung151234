@@ -16,7 +16,6 @@ A **FREELANCE DEVELOPMENT**  🚀.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a HCMUTE University student at Machine Engineering
 - 🌱 I’m currently exploring Python with a big interest in Python applets and Data Minning and Machine Learning/Deep Learning. 
 - 🤔 My interest lies in API, Application.
 - 💬 Ask me about anything, I love to answer!
